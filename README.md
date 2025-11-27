@@ -24,3 +24,53 @@
 ![alt text](20.png)
 ![alt text](21.png)
 ![alt text](22.png)
+
+
+
+
+
+- IDE <br>
+![Static Badge](https://img.shields.io/badge/1.90.2-%20?style=for-the-badge&logoColor=%2322a5f1&label=Visual%20Studio%20Code&labelColor=%23000000&color=%2322a5f1) <br>
+![Static Badge](https://img.shields.io/badge/1.4-%20?style=for-the-badge&logo=intellijidea&logoColor=%23000000&label=intellij&labelColor=%23ffffff&color=%23000000) <br>
+
+
+- FRAMEWORK <br>
+![Static Badge](https://img.shields.io/badge/20-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11)
+![Static Badge](https://img.shields.io/badge/3.4.2-%20?style=for-the-badge&logo=spring&logoColor=%236DB33F&label=spring&labelColor=%23000000&color=%236DB33F)
+
+
+- LANGUAGE <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ENVIRONMENT <br>
+![Static Badge](https://img.shields.io/badge/20.15.0-%20?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&label=nodedotjs&labelColor=%23000000&color=%235FA04E) <br>
+
+
+- TOOLS <br>
+![Static Badge](https://img.shields.io/badge/20.0.0.0-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20java&labelColor=%23000000&color=%233a75b0) <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=postman&logoColor=%23FF6C37&label=postman&labelColor=%23000000&color=%23FF6C37) <br>
+
+
+- DATABASE <br>
+![Static Badge](https://img.shields.io/badge/8.2.12-%20?style=for-the-badge&logo=xampp&logoColor=%23FB7A24&label=xampp&labelColor=%23000000&color=%23FB7A24)
+
+
+
+
+
+
+
+
