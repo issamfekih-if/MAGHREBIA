@@ -62,3 +62,6 @@
 
 - SERVICE <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%236db23f&label=Config&labelColor=%23000000&color=%236db23f) <br>
+
+- MACHINE LEARNING <br>
+![Static Badge](https://img.shields.io/badge/Classification-%20?style=for-the-badge&logoColor=blue&label=Supervised%20Learning&labelColor=%23000000&color=blue) <br>
