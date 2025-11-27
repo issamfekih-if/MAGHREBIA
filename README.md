@@ -1,4 +1,5 @@
 # MAGHREBIA
+![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%23f28f20&color=%23104c8b) <br>
 
 
 ![alt text](1.png)
