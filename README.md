@@ -35,8 +35,8 @@
 
 
 - FRAMEWORK <br>
-![Static Badge](https://img.shields.io/badge/20-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11)
-![Static Badge](https://img.shields.io/badge/3.4.2-%20?style=for-the-badge&logo=spring&logoColor=%236DB33F&label=spring&labelColor=%23000000&color=%236DB33F)
+![Static Badge](https://img.shields.io/badge/20-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11) <br>
+![Static Badge](https://img.shields.io/badge/3.4.2-%20?style=for-the-badge&logo=spring&logoColor=%236DB33F&label=spring&labelColor=%23000000&color=%236DB33F) <br>
 
 
 - LANGUAGE <br>
