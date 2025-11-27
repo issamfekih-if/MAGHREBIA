@@ -33,8 +33,6 @@
 ![Static Badge](https://img.shields.io/badge/1.4-%20?style=for-the-badge&logo=intellijidea&logoColor=%23000000&label=intellij&labelColor=%23ffffff&color=%23000000) <br>
 ![Static Badge](https://img.shields.io/badge/1.90.2-%20?style=for-the-badge&logoColor=%2322a5f1&label=Visual%20Studio%20Code&labelColor=%23000000&color=%2322a5f1) <br>
 
-
-
 - FRAMEWORK <br>
 ![Static Badge](https://img.shields.io/badge/3.4.2-%20?style=for-the-badge&logo=spring&logoColor=%236DB33F&label=spring&labelColor=%23000000&color=%236DB33F) <br>
 ![Static Badge](https://img.shields.io/badge/20-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11) <br>
@@ -43,35 +41,24 @@
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=%23000000&color=%233178C6) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%233a75b0&label=java&labelColor=%23000000&color=%233a75b0) <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 - ENVIRONMENT <br>
 ![Static Badge](https://img.shields.io/badge/20.15.0-%20?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&label=nodedotjs&labelColor=%23000000&color=%235FA04E) <br>
-
 
 - TOOLS <br>
 ![Static Badge](https://img.shields.io/badge/20.0.0.0-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20java&labelColor=%23000000&color=%233a75b0) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=postman&logoColor=%23FF6C37&label=postman&labelColor=%23000000&color=%23FF6C37) <br>
 
-
 - DATABASE <br>
-![Static Badge](https://img.shields.io/badge/8.2.12-%20?style=for-the-badge&logo=xampp&logoColor=%23FB7A24&label=xampp&labelColor=%23000000&color=%23FB7A24)
+![Static Badge](https://img.shields.io/badge/8.2.12-%20?style=for-the-badge&logo=xampp&logoColor=%23FB7A24&label=xampp&labelColor=%23000000&color=%23FB7A24) <br>
 
+- DISCOVERY <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%236db23f&label=EUREKA&labelColor=%23000000&color=%236db23f) <br>
 
+- GATEWAY <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%236db23f&label=gateway&labelColor=%23000000&color=%236db23f) <br>
 
+- COMMUNICATION <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%236db23f&label=Feign&labelColor=%23000000&color=%236db23f) <br>
 
-
-
-
-
+- SERVICE <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%236db23f&label=Config&labelColor=%23000000&color=%236db23f) <br>
