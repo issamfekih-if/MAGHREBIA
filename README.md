@@ -2,7 +2,23 @@
 ![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%23f28f20&color=%23104c8b) <br>
 
 - Description <br>
-> . <br><br>
+> Redesign of Maghrebia Website <br><br>
+Our goal is to redesign the Maghrebia Insurance 
+website by enhancing existing 
+features and integrating 
+new functionalities to
+make the site more
+flexible and modern. <br><br>
+We will focus on improving 
+the services offered on
+the website, automating 
+processes and allowing 
+customers to submit
+projects to investment requests. <br><br>
+The project aims to align 
+with the company
+strategic digital goals and
+enhance insurance online visibility.
 
 ### MICROSERVICES ARCHITECTURE
 
