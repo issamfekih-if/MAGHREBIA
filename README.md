@@ -68,17 +68,17 @@
 
 ### How to use
 ```
+npm install -g @angular/cli@18 --force
 ng new _
 ng g c _
 ng g s _
 ng s -o
-```
+``` 
 
 ```
 pip install flask
 python app.py
 ```
-
 
 ```
 docker login
