@@ -8,7 +8,7 @@
 
 ### MICROSERVICES ARCHITECTURE
 
-![alt text](1.png)
+<img src="1.png" alt="alt text" width="350" height="350">
 
 ### Launch Interface
 1. One interface to combine Frontoffice microservice and Backoffice microservice : <br>
