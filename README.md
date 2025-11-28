@@ -28,19 +28,21 @@
 
 ![alt text](5.png)
 
-
+5. User Profil interface : <br>
 
 ![alt text](6.png)
 
-
+6. Sending a verification email before redirecting to change password : <br>
 
 ![alt text](7.png)
 
+### Investment Module
 
+7. Display of users projects that successfully secured investment : <br>
 
 ![alt text](8.png)
 
-
+8. User can submit project ideas to get investment  : <br>
 
 ![alt text](9.png)
 
