@@ -29,15 +29,15 @@
 
 
 
-- IDE <br>
+- IDES <br>
 ![Static Badge](https://img.shields.io/badge/1.4-%20?style=for-the-badge&logo=intellijidea&logoColor=%23000000&label=intellij&labelColor=%23ffffff&color=%23000000) <br>
 ![Static Badge](https://img.shields.io/badge/1.90.2-%20?style=for-the-badge&logoColor=%2322a5f1&label=Visual%20Studio%20Code&labelColor=%23000000&color=%2322a5f1) <br>
 
-- FRAMEWORK <br>
+- FRAMEWORKS <br>
 ![Static Badge](https://img.shields.io/badge/3.4.2-%20?style=for-the-badge&logo=spring&logoColor=%236DB33F&label=spring&labelColor=%23000000&color=%236DB33F) <br>
 ![Static Badge](https://img.shields.io/badge/18-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11) <br>
 
-- LANGUAGE <br>
+- LANGUAGES <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=%23000000&color=%233178C6) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%233a75b0&label=java&labelColor=%23000000&color=%233a75b0) <br>
 
