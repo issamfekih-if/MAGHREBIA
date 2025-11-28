@@ -35,7 +35,7 @@
 
 - FRAMEWORK <br>
 ![Static Badge](https://img.shields.io/badge/3.4.2-%20?style=for-the-badge&logo=spring&logoColor=%236DB33F&label=spring&labelColor=%23000000&color=%236DB33F) <br>
-![Static Badge](https://img.shields.io/badge/20-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11) <br>
+![Static Badge](https://img.shields.io/badge/18-%20?style=for-the-badge&logo=angular&logoColor=%230F0F11&label=angular&labelColor=%23ffffff&color=%230F0F11) <br>
 
 - LANGUAGE <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=%23000000&color=%233178C6) <br>
@@ -65,3 +65,25 @@
 
 - MACHINE LEARNING <br>
 ![Static Badge](https://img.shields.io/badge/Classification-%20?style=for-the-badge&logoColor=blue&label=Supervised%20Learning&labelColor=%23000000&color=blue) <br>
+
+### How to use
+```
+ng new _
+ng g c _
+ng g s _
+ng s -o
+```
+
+```
+pip install flask
+python app.py
+```
+
+
+```
+docker login
+docker-compose build
+docker-compose push
+docker-compose up
+docker-compose down
+```
