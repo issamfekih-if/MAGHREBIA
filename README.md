@@ -1,10 +1,8 @@
 # MAGHREBIA
 ![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%23f28f20&color=%23104c8b) <br>
 
-
 - Description <br>
 > . <br><br>
-
 
 ### MICROSERVICES ARCHITECTURE
 
@@ -127,6 +125,9 @@
 
 - SERVICE <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logoColor=%236db23f&label=Config&labelColor=%23000000&color=%236db23f) <br>
+
+- ACCESS MANAGEMENT <br>
+![Static Badge](https://img.shields.io/badge/23.0.0-%20?style=for-the-badge&logo=keycloak&logoColor=%234D4D4D&label=keycloak&labelColor=%23000000&color=%234D4D4D) <br>
 
 - MACHINE LEARNING <br>
 ![Static Badge](https://img.shields.io/badge/Classification-%20?style=for-the-badge&logoColor=blue&label=Supervised%20Learning&labelColor=%23000000&color=blue) <br>
