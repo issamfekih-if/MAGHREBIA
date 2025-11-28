@@ -58,40 +58,39 @@
 
 ![alt text](12.png)
 
-12.  : <br>
+12. Admin can see the list of projects submitted by users, sorted by factors to optimize the selection of long term beneficial project : <br>
 
 ![alt text](13.png)
 
-
-13.  : <br>
+13. The project is beneficial, investment is possible : <br>
 
 ![alt text](14.png)
 
-14. Admin can see the list of projects submitted by users, sorted by factors to optimize the selection of long term beneficial project : <br>
+14. The project is not beneficial, we cannot invest : <br>
 
 ![alt text](15.png)
 
-15. The project is beneficial, investment is possible : <br>
+15. List of beneficial projects : <br>
 
 ![alt text](16.png)
 
-16. The project is not beneficial, we cannot invest : <br>
+16. List of projects that are not beneficial : <br>
 
 ![alt text](17.png)
 
-17. List of beneficial projects : <br>
+17. Validation investment in a project : <br>
 
 ![alt text](18.png)
 
-18. List of projects that are not beneficial : <br>
+18. The user receives a notification that their project was accepted or rejected : <br>
 
 ![alt text](19.png)
 
-19. Validation investment in a project : <br>
+19.  : <br>
 
 ![alt text](20.png)
 
-20. The user receives a notification that their project was accepted or rejected <br>
+20.  <br>
 
 ![alt text](21.png)
 
