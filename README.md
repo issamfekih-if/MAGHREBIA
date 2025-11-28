@@ -84,7 +84,7 @@
 
 18. The user receives a notification that their project was accepted or rejected : <br>
 
-<img src="19.png" alt="alt text" width="50" height="50">
+<img src="19.png" alt="alt text" width="250" height="250">
 
 19. The user can see their projects that successfully received investment : <br>
 
