@@ -86,17 +86,13 @@
 
 ![alt text](19.png)
 
-19.  : <br>
+19. The user can see their projects that successfully received investment : <br>
 
 ![alt text](20.png)
 
-20.  <br>
+20. The admin can follow the number of projects invested by location <br>
 
 ![alt text](21.png)
-
-
-
-![alt text](22.png)
 
 - IDES <br>
 ![Static Badge](https://img.shields.io/badge/1.4-%20?style=for-the-badge&logo=intellijidea&logoColor=%23000000&label=intellij&labelColor=%23ffffff&color=%23000000) <br>
