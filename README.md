@@ -28,7 +28,7 @@
 
 ![alt text](5.png)
 
-5. User Profil interface : <br>
+5. User profil interface : <br>
 
 ![alt text](6.png)
 
@@ -49,20 +49,21 @@
 
 ![alt text](10.png)
 
-10. Users can see their submitted project applications on their profile : <br>
+10. Users can see their submitted project on their profile : <br>
 
 ![alt text](11.png)
 
-11. Users can see their submitted project applications on their profile : <br>
+### MACHINE LEARNING
+11. Admin SignIn : <br>
 
 ![alt text](12.png)
 
-12. Admin SignIn : <br>
+12.  : <br>
 
 ![alt text](13.png)
 
-### MACHINE LEARNING
-13. Admin SignIn : <br>
+
+13.  : <br>
 
 ![alt text](14.png)
 
